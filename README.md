@@ -7,5 +7,5 @@
 - [x] sqlsrv driver `ambil di file di bawah`
 - [x] autorun `right click` > `preferences` > [`check this image`](https://user-images.githubusercontent.com/90446669/208617948-ad837b42-5282-4543-825c-4a9f905080b3.png)
 
-or download necessary files below
+or download necessary files here
 [Laragon Installation.zip](https://github.com/HermesTAS/daily-task/files/10266660/Laragon.Installation.zip)
