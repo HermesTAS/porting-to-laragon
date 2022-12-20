@@ -1,9 +1,3 @@
-- phpmyadmin
-
-persiapan dulu, sekitar 1 minggu lagi dari `08 des 2022`
-
-- https://github.com/leokhoa/laragon/issues/295
-
 ### porting to laragon
 - [x] download laragon https://laragon.org/download/index.html `full version`
 - [x] php `7.3.27 Win32 VC15 x64` https://windows.php.net/downloads/releases/archives/ atau `ambil dari file di bawah`
